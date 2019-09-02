@@ -1,9 +1,9 @@
 # footsites-order-status-checker
 
 requirements:
-  footsites status checker
-  EditThisCookie
-  Python 3.7+
+  footsites status checker,
+  EditThisCookie,
+  Python 3.7+,
   Requests
   
 guide:
